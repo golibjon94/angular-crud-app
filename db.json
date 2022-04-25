@@ -1,0 +1,40 @@
+{
+  "productList": [
+    {
+      "productName": "Galaxy A51",
+      "category": "Samsung",
+      "condition": "New",
+      "price": "300",
+      "comment": "",
+      "date": "2022-04-12T19:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "P 40",
+      "category": "Huawei",
+      "condition": "Second Hand",
+      "price": "500",
+      "comment": "",
+      "date": "",
+      "id": 2
+    },
+    {
+      "productName": "Galaxy A51",
+      "category": "Samsung",
+      "condition": "New",
+      "price": "200",
+      "comment": "",
+      "date": "",
+      "id": 3
+    },
+    {
+      "productName": "iphone",
+      "category": "Iphone",
+      "condition": "B/Y",
+      "price": "333",
+      "comment": "",
+      "date": "0199-12-31T19:22:49.000Z",
+      "id": 4
+    }
+  ]
+}
